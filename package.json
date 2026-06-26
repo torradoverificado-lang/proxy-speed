@@ -1,0 +1,13 @@
+{
+  "name": "proxy-speed",
+  "version": "1.0.0",
+  "description": "Proxy speed simulation",
+  "main": "proxy_speed.js",
+  "scripts": {
+    "start": "node proxy_speed.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
